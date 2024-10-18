@@ -1,0 +1,6 @@
+com\upiiz\publicacionesBlog\PublicacionesBlogApplication.class
+com\upiiz\publicacionesBlog\services\FileService.class
+com\upiiz\publicacionesBlog\services\PublicacionesBlogsService.class
+com\upiiz\publicacionesBlog\models\PublicacionesBlog.class
+com\upiiz\publicacionesBlog\repository\PublicacionesBlogRepository.class
+com\upiiz\publicacionesBlog\controllers\PublicacionesBlogsController.class

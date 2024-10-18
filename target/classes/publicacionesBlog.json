@@ -1,0 +1,11 @@
+[ {
+  "id" : 1,
+  "titulo" : "Salvador",
+  "contenido" : "Adios",
+  "fecha_de_publicacion" : [ 2024, 10, 18, 14, 30 ]
+}, {
+  "id" : 2,
+  "titulo" : "Variables",
+  "contenido" : "Entorno",
+  "fecha_de_publicacion" : [ 2024, 10, 10, 14, 30 ]
+} ]
